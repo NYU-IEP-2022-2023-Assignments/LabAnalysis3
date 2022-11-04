@@ -9,7 +9,7 @@ This is a template repository for **Introductory Experimental Physics Lab Analys
 
 # Setup and submission
 
-In order to submit your assignment you'll need to save an editable copy of your notebook.  Click File > Save a copy in Drive and then save your copy of the notebook as `LabAnalysis2.ipynb` (i.e., remove the "`Copy of`" text that gets automatically appended to the beginning of the filename).
+In order to submit your assignment you'll need to save an editable copy of your notebook.  Click File > Save a copy in Drive and then save your copy of the notebook as `LabAnalysis3.ipynb` (i.e., remove the "`Copy of`" text that gets automatically appended to the beginning of the filename).
 
 When you did assignment 0, you should have given Colaboratory access to your private repositories on GitHub.  (By default, your assignment repositories will be accessible only to you and the course instructor.) To confirm Colaboratory has access to your private repositories:
 - Navigate to [http://colab.research.google.com/github](http://colab.research.google.com/github)
